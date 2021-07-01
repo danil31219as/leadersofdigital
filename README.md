@@ -1,6 +1,8 @@
 # leadersofdigital
 Классификация и детекция полярных медведей на фотографиях с самолета и БПЛА    
-Схема решения
+Схема решения    
+()
+[![Алгоритм](https://raw.githubusercontent.com/danil31219as/leadersofdigital/main/algorithm.png)]
 
 Ссылки на веса моделей:
 
