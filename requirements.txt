@@ -1,5 +1,4 @@
 torch
-git+https://github.com/facebookresearch/detectron2.git
 torchvision
 torchaudio
 streamlit==0.84.0
