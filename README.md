@@ -11,9 +11,9 @@
   
   
 #### Код модели:
-+ Обучение классификатора [Classifier.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/BaselineW.ipynb)    
-+ Обучение детектора [Detector.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/Копия_блокнота__Detectron2_Tutorial_ipynb_%20(1).ipynb)    
-+ Реализация алгоритма [Main.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/Official_version.ipynb)    
++ Обучение классификатора [Classifier.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/notebooks/Classifier.ipynb)    
++ Обучение детектора [Detector.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/notebooks/Detector.ipynb)    
++ Реализация алгоритма [Main.ipynb](https://github.com/danil31219as/leadersofdigital/blob/main/notebooks/Main.ipynb)    
 
 
 Ссылки на веса моделей доступны [здесь](https://drive.google.com/file/d/1iacvaFETWjQR9n5agG-jXRLT4jfaW65A/view?usp=sharing
