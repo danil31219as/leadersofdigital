@@ -2,7 +2,7 @@
 Классификация и детекция полярных медведей на фотографиях с самолета и БПЛА    
 Схема решения    
 
-![Алгоритм](https://raw.githubusercontent.com/danil31219as/leadersofdigital/main/algorithm.png)    
+![Алгоритм](https://raw.githubusercontent.com/danil31219as/leadersofdigital/images/model_work.png)    
 [Обучение классификатора](https://github.com/danil31219as/leadersofdigital/blob/main/BaselineW.ipynb)    
 [Обучение детектора](https://github.com/danil31219as/leadersofdigital/blob/main/Копия_блокнота__Detectron2_Tutorial_ipynb_%20(1).ipynb)    
 [Реализация алгоритма](https://github.com/danil31219as/leadersofdigital/blob/main/Official_version.ipynb)    
